@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Feliz Navidad (Official Audio)",
+  "base_artist": "José Feliciano",
+  "createdAt": "2025-12-25T11:02:16.818651Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Gwen Stefani feat. Mon Laferte",
+      "has_synced": true,
+      "path": "select/01_Feliz_Navidad_Gwen_Stefani_feat._Mon_Laferte.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/02_Feliz_Navidad_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Demis Roussos",
+      "has_synced": false,
+      "path": "select/03_Feliz_Navidad_Demis_Roussos.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/04_Feliz_Navidad_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feliz Navidad (feat. Michael Monroe, Doro Pesch, Tony Kakko, Elize Ryd, Marko Saaresto, Timo Kotipelto, Simone Simons, Cristina Scabbia, Joe Lynn Turner, Floor Jansen, Hansi Kürsch & Sharon Den Adel) [Barbuda Relief and Recovery Charity Version]",
+      "artist": "Tarja",
+      "has_synced": false,
+      "path": "select/05_Feliz_Navidad_(feat._Michael_Monroe,_Doro_Pesch,_Tony_Kakko,_Elize_Ryd,_Marko_Sa_Tarja.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feliz Navidad (Barbuda Relief and Recovery Charity Version) (feat. Michael Monroe, Doro Pesch, Tony Kakko, Elize Ryd, Marko Saaresto, Timo Kotipelto, Simone Simons, Cristina Scabbia, Joe Lynn Turner, Floor Jansen, Hansi Kürsch & Sharon Den Adel)",
+      "artist": "Tarja Turunen",
+      "has_synced": false,
+      "path": "select/06_Feliz_Navidad_(Barbuda_Relief_and_Recovery_Charity_Version)_(feat._Michael_Monro_Tarja_Turunen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "J. Feliciano",
+      "has_synced": true,
+      "path": "select/07_Feliz_Navidad_J._Feliciano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "José Feliciano",
+      "has_synced": true,
+      "path": "select/08_Feliz_Navidad_José_Feliciano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mis Deseos / Feliz Navidad (with Thalia)",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/09_Mis_Deseos___Feliz_Navidad_(with_Thalia)_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "William Shatner feat. Dani Bander",
+      "has_synced": true,
+      "path": "select/10_Feliz_Navidad_William_Shatner_feat._Dani_Bander.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/11_Feliz_Navidad_Chicago.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/12_Feliz_Navidad_Chicago.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Gary Hoey",
+      "has_synced": false,
+      "path": "select/13_Feliz_Navidad_Gary_Hoey.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "David Hasselhoff",
+      "has_synced": false,
+      "path": "select/14_Feliz_Navidad_David_Hasselhoff.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Céline Dion",
+      "has_synced": true,
+      "path": "select/15_Feliz_Navidad_Céline_Dion.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Feliz Navidad",
+      "artist": "Celine Dion",
+      "has_synced": true,
+      "path": "select/16_Feliz_Navidad_Celine_Dion.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Feliz Navidad (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/17_Feliz_Navidad_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feliz Navidad",
+      "artist": "José Feliciano",
+      "has_synced": false,
+      "path": "select/pl_01_Feliz_Navidad_José_Feliciano.txt"
+    }
+  ]
+}
